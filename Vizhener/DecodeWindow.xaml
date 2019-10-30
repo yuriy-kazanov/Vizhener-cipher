@@ -1,0 +1,83 @@
+﻿<Window x:Class="Vizhener.DecodeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vizhener"
+        mc:Ignorable="d"
+        Title="DecodeWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderThickness="1" BorderBrush="Black">
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="5*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.6*"/>
+                        <RowDefinition Height="0.4*"/>
+                    </Grid.RowDefinitions>
+                    <Border Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+                        <TextBlock  Grid.Row="1" Text="Вы можете попробовать дешифровать текст без выбора ключа, но в данном случае успех не гарантирован." TextWrapping="Wrap" FontSize="14"/>
+                    </Border>
+                    <Button Grid.Row="1" Width="120" Content="Дешифровать" Click="Button_Click"/>
+                </Grid>
+                <Border Grid.Row="1" BorderThickness="1" BorderBrush="Black">
+                    <Grid Grid.Row="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="0.36*"/>
+                            <RowDefinition Height="0.16*"/>
+                            <RowDefinition Height="0.16*"/>
+                            <RowDefinition Height="0.16*"/>
+                            <RowDefinition Height="0.16*"/>
+                            <RowDefinition Height="0.16*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Text="Также, если Вы знаете длину ключа, Вы можете выбрать ее, и, в зависимости от нее, выбрать сам ключ. Или, если Вы не знаете длину ключа, можете попробовать угадать ее." TextWrapping="Wrap" FontSize="14" Grid.ColumnSpan="2"/>
+                        <Button Grid.Row="1" Content="Подобрать длину ключа" Grid.ColumnSpan="2" Click="Button_Click_KeyLength"/>
+                        <Grid Grid.Row="2" Grid.ColumnSpan="2" >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+                                <TextBlock Text="Выберите предполагаемую длину ключа:" TextWrapping="Wrap"/>
+                            </Border>
+                            <ComboBox x:Name="KeyLengthBox" Grid.Row="1"/>
+                        </Grid>
+                        <Button Grid.Row="3" Content="Подобрать ключ" Grid.ColumnSpan="2" Click="Button_Click_Key"/>
+                        <Grid Grid.Row="4" Grid.ColumnSpan="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+                                <TextBlock Text="Выберите предполагаемый ключ:" TextWrapping="Wrap"/>
+                            </Border>
+                            <ComboBox x:Name="KeyBox" Grid.Row="1"/>
+                        </Grid>
+                        <Button Grid.Row="5" Content="Расшифровать" Grid.ColumnSpan="2" Click="Button_Click_Decode"/>
+                    </Grid> 
+                </Border>
+                <Button Grid.Row="2" Width="120" HorizontalAlignment="Right" Content="Очистить" Click="Button_Click_Clear"/>
+            </Grid>
+        </Border>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="20*"/>
+            </Grid.RowDefinitions>
+            <Border Grid.Row="0" BorderThickness="1" BorderBrush="Black">
+                <TextBlock  Grid.Row="0" Text="Дешифрованный текст:"/>
+            </Border>
+            <Border Grid.Row="1" BorderThickness="1" BorderBrush="Black">
+                <TextBox x:Name="DecodeText" Grid.Row="1" TextWrapping="Wrap" />
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

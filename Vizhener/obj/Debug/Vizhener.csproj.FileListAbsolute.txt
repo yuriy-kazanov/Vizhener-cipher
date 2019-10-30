@@ -1,0 +1,51 @@
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\bin\Debug\Vizhener.exe.config
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\bin\Debug\Vizhener.exe
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\bin\Debug\Vizhener.pdb
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener.csprojAssemblyReference.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\MainWindow.g.cs
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\App.g.cs
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener_MarkupCompile.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener_MarkupCompile.lref
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\MainWindow.baml
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener.g.resources
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener.Properties.Resources.resources
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener.csproj.GenerateResource.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener.csproj.CoreCompileInputs.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener.exe
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\Vizhener.pdb
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\DecodeWindow.g.cs
+C:\Users\kazan\OneDrive\Рабочий стол\Vizhener\Vizhener\obj\Debug\DecodeWindow.baml
+H:\КМЗИ\Vizhener\Vizhener\bin\Debug\Vizhener.exe.config
+H:\КМЗИ\Vizhener\Vizhener\bin\Debug\Vizhener.exe
+H:\КМЗИ\Vizhener\Vizhener\bin\Debug\Vizhener.pdb
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener.csprojAssemblyReference.cache
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\DecodeWindow.g.cs
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\MainWindow.g.cs
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\App.g.cs
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener_MarkupCompile.cache
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener_MarkupCompile.lref
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\DecodeWindow.baml
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\MainWindow.baml
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener.g.resources
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener.Properties.Resources.resources
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener.csproj.GenerateResource.cache
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener.csproj.CoreCompileInputs.cache
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener.exe
+H:\КМЗИ\Vizhener\Vizhener\obj\Debug\Vizhener.pdb
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\bin\Debug\Vizhener.exe.config
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\bin\Debug\Vizhener.exe
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\bin\Debug\Vizhener.pdb
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener.csprojAssemblyReference.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\DecodeWindow.g.cs
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\MainWindow.g.cs
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\App.g.cs
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener_MarkupCompile.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener_MarkupCompile.lref
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\DecodeWindow.baml
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\MainWindow.baml
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener.g.resources
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener.Properties.Resources.resources
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener.csproj.GenerateResource.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener.csproj.CoreCompileInputs.cache
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener.exe
+C:\Users\kazan\OneDrive\Рабочий стол\Юра\Vizhener\Vizhener\obj\Debug\Vizhener.pdb
